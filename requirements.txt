@@ -1,3 +1,4 @@
 jupyter==1.0.*
 spmf==1.4
 pandas==2.2.*
+matplotlib==3.9.*
